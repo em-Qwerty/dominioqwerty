@@ -1,0 +1,59 @@
+#todo {
+  background-color: #EEECEC;
+}
+
+#titulo{
+  font-family: Century Gothic;
+  font-size: 24px;
+}
+
+#line3 {
+  position: relative;
+  left: 0%;
+  top: -12px;
+  width: 60%;
+  height: 0px;
+  border-top: 5px solid;
+  color: black;
+}
+
+#plantillas{
+  font-family: Century Gothic;
+  font-size: 22px;
+  color: #0317A9;
+}
+
+#line2 {
+  position: relative;
+  left: 0%;
+  top: -19px;
+  width: 229px;
+  height: 0px;
+  border-top: 5px solid;
+  color: #0317A9;
+}
+
+#info{
+  font-family: Century Gothic;
+  font-size: 18px;
+}
+
+#enca{
+  font-family: Century Gothic;
+}
+
+#documentos{
+  font-family: Century Gothic;
+  font-size: 22px;
+  color: #0317A9;
+}
+
+#line4 {
+  position: relative;
+  left: 0%;
+  top: -19px;
+  width: 275px;
+  height: 0px;
+  border-top: 5px solid;
+  color: #0317A9;
+}
